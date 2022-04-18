@@ -11,3 +11,7 @@ Falls ein neuer Quote in die Liste hinzugefügt werden soll, einfach die famosen
 
 
 ## Liste
+
+!quote 1  
+"Positiv denken... wird eh nix!"  
+Maurice, Super Toy Club
